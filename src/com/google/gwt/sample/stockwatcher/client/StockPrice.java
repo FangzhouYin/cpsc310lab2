@@ -4,7 +4,7 @@ public class StockPrice {
 
   private String symbol;
   private double price;
-  private double csadasd;
+  private double change;
 
   public StockPrice() {
   }
